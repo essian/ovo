@@ -1,0 +1,12 @@
+{
+  "name": "ovo",
+  "version": "1.0.0",
+  "description": "recruitment_exercise",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@cucumber/cucumber": "^8.5.2",
+    "axios": "^0.27.2",
+    "cypress": "^10.7.0"
+  }
+}
