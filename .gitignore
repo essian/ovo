@@ -106,3 +106,6 @@ dist
 # Cypress
 cypress/downloads
 cypress/videos
+
+#vscode
+.DS_Store
